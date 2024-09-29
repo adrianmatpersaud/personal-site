@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Adrian&#39;s Blog</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Home on Adrian&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gpg-Key</title>
+      <link>https://example.org/gpg-key/</link>
+      <pubDate>Sun, 29 Sep 2024 13:21:58 -0400</pubDate>
+      <guid>https://example.org/gpg-key/</guid>
+      <description>Below is attached my pgp key connected to adrianpersaudengineering@gmail.com&#xA;-----BEGIN PGP PUBLIC KEY BLOCK----- mDMEZvl/cBYJKwYBBAHaRw8BAQdAGxj5cKCZvZir9b35d5WYc7cWMELXrXTT1Y33 e2F4PEC0M0FkcmlhbiBQZXJzYXVkIDxhZHJpYW5wZXJzYXVkZW5naW5lZXJpbmdA Z21haWwuY29tPoiTBBMWCgA7FiEEcP/oBGZElEV1utCbbEUNqDD3k9AFAmb5f3AC GwMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQbEUNqDD3k9BgMAEA76Hn WMS1rG8QgLhv+jiCgwBZ1KVeuJOXcMLRM7mahcUA/0p85+C/yGEdVhQlld1+7Z6k IpnMBVMngrSx6fzEXK0KuDgEZvl/cBIKKwYBBAGXVQEFAQEHQH0Ar8thN+inmE2G u9hsTBM6G+j3G/pGD9oPHgYWyORsAwEIB4h4BBgWCgAgFiEEcP/oBGZElEV1utCb bEUNqDD3k9AFAmb5f3ACGwwACgkQbEUNqDD3k9BR8wEAthucEA7FBqmjNqQyERJK QBXLqwfJfuUwHfg3ilhK4nIA/2KeBidXc7eN9oRcyASys7+x2TUV2jTBUI5ZGHs3 +BoD =M7oU -----END PGP PUBLIC KEY BLOCK----- </description>
+    </item>
+  </channel>
+</rss>
